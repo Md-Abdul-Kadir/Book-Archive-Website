@@ -1,0 +1,14 @@
+.headding{
+    background-image: url(images/pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+   
+    
+}
+.text-big{
+    font-weight: 400;
+    font-size: 55px;
+    color: rgb(0, 144, 72);
+    padding-left: 30%;
+}
